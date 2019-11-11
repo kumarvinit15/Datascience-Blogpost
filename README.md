@@ -30,7 +30,7 @@ Dataset for Boston and Seattle locations can be downaloded from folloiwng links:
 1. https://www.kaggle.com/airbnb/boston
 2. https://www.kaggle.com/airbnb/seattle
 ### Summary Blogpost:
-Summary of data analysis and results can be found at below link:
-1. TBD
+Summary of data analysis and results can be found at below link on the medium portal:
+https://medium.com/@vinitkumargtech/airbnb-property-rentals-a-data-science-analysis-cf244f5e5d5
 ### Licensing,Authors and Acknowledgement:
 Credit and acknowledegment given to Airbnb for sharing the data and Kaggle for publishing the data for analysis.
